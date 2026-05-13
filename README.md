@@ -42,7 +42,7 @@ He is a diligent student who approaches learning with humility, discipline, and 
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 <h2 align="center">My Github Stats</h2>
 
@@ -50,12 +50,28 @@ He is a diligent student who approaches learning with humility, discipline, and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syras3012&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syras3012&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syras3012&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%"/>
+**Syras Saladin's GitHub Stats**
+
+![Total Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/syras3012&query=public_repos&label=Public+Repos&color=00BFFF&style=flat-square)
+
+<img src="https://github-readme-stats.vercel.app/api?username=syras3012&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+**Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syras3012&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 ---
 
@@ -68,6 +84,8 @@ He is a diligent student who approaches learning with humility, discipline, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <h3>🤖 AI / Machine Learning</h3>
 
@@ -84,7 +102,7 @@ He is a diligent student who approaches learning with humility, discipline, and 
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-009900?style=for-the-badge&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 ---
 
@@ -98,7 +116,7 @@ He is a diligent student who approaches learning with humility, discipline, and 
 - 📊 Explored operational workflow of WZPDCL's Sales and Distribution Division-2
 - 🛡️ Learned about grid safety and load management in a real-world utility environment
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 ---
 
@@ -109,8 +127,10 @@ He is a diligent student who approaches learning with humility, discipline, and 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syras3012&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
+
+<img src="rainbow.svg" width="100%" alt="footer"/>
