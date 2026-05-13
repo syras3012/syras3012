@@ -1,34 +1,39 @@
 <svg width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#818cf8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#b39ddb;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#9fa8da;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7986cb;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c4b5fd;stop-opacity:0.5" />
-      <stop offset="100%" style="stop-color:#93c5fd;stop-opacity:0.5" />
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#b39ddb;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#7986cb;stop-opacity:0.7" />
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9575cd;stop-opacity:0.5" />
+      <stop offset="100%" style="stop-color:#5c6bc0;stop-opacity:0.5" />
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1000" height="200" rx="16" fill="url(#bgGrad)" />
+  <rect width="1000" height="200" fill="url(#bgGrad)" />
 
-  <!-- Wave shape bottom -->
-  <path d="M0,140 C150,100 300,170 500,140 C700,110 850,160 1000,130 L1000,200 L0,200 Z"
-        fill="url(#waveGrad)" opacity="0.6"/>
-  <path d="M0,160 C200,130 400,180 600,155 C800,130 900,165 1000,150 L1000,200 L0,200 Z"
-        fill="white" opacity="0.15"/>
+  <!-- Wave 1 -->
+  <path d="M0,130 C100,110 200,155 350,135 C500,115 600,150 750,130 C850,115 930,140 1000,125 L1000,200 L0,200 Z"
+        fill="url(#wave1)"/>
+
+  <!-- Wave 2 -->
+  <path d="M0,155 C120,140 250,170 400,155 C550,140 700,165 850,150 C920,143 970,158 1000,152 L1000,200 L0,200 Z"
+        fill="url(#wave2)"/>
 
   <!-- Welcome Text -->
-  <text x="500" y="95"
+  <text x="500" y="90"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="52"
+        font-size="56"
         font-weight="bold"
         fill="white"
         text-anchor="middle"
-        dominant-baseline="middle"
-        filter="drop-shadow(2px 2px 4px rgba(0,0,0,0.2))">
+        opacity="0.95">
     Welcome to my profile!
   </text>
 </svg>
