@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- YouTube red rounded rectangle background -->
+  <rect x="4" y="14" width="56" height="36" rx="10" ry="10" fill="#FF0000"/>
+
+  <!-- White play triangle -->
+  <polygon points="25,22 25,42 46,32" fill="white"/>
+</svg>
