@@ -36,8 +36,6 @@ Syras Saladin is currently pursuing a Bachelor's degree in **Electrical and Elec
 
 He has developed a keen interest in **Machine Learning** and **Deep Learning**, and has been working extensively in these areas to enhance his technical skill set and stay aligned with modern technological advancements.
 
-His final project on **Fake News Classifier using Machine Learning** applies NLP techniques to classify fake vs real news, showcasing his ability to combine AI with real-world problems.
-
 He has excelled in various areas such as Machine Learning, Deep Learning, PCB Design, AI Automation, and more — consistently delivering remarkable performances and displaying a deep passion for research.
 
 He is a diligent student who approaches learning with humility, discipline, and a sincere desire to grow through knowledge. He loves to read, explore new challenges, and collaborate on impactful projects that contribute to real-world solutions.
@@ -106,10 +104,8 @@ He is a diligent student who approaches learning with humility, discipline, and 
 
 <h2 align="center">📬 Contact Me</h2>
 
-<a href="https://www.linkedin.com/in/syrassaladin-845ba5306"><img src="world-wide-web.svg" width="40" alt="LinkedIn"/></a>
 <a href="https://www.linkedin.com/in/syrassaladin-845ba5306"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>
 <a href="mailto:syrassiyam001@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Gmail"/></a>
-<a href="https://www.youtube.com"><img src="youtube.svg" width="40" alt="YouTube"/></a>
 
 <br/>
 
